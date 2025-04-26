@@ -1,4 +1,4 @@
-# A Numerical Scheme for the Optimal Liquidation Problem Under Jump Diffusion Dynamics on High-Frequency Data
+# Optimal Liquidation Problem Under Jump Diffusion Dynamics
 
 This repository contains resources relevant to the project **"A Numerical Scheme for the Optimal Liquidation Problem Under Jump Diffusion Dynamics on High-Frequency Data."**
 
